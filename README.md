@@ -9,7 +9,7 @@ As a development environment I used the PyCharm. I used Matplotlib for visualiza
 
 In this algorithm we proposed new algorithm to detect and classify five categories of animals: (Mammals, Reptiles, Amphibians, Bird, and Fish). The algorithm based on using model based on DCNNs. 
 Three convolutional layer has been used which transforms the image volume into an output volume. 
-	Input: RGB image from the dataset consists of (12000 different images), Figure 2 shows sample of dataset.
+	Input: RGB image from the dataset consists of (12000 different images).
 	Output: detect animals in still images, and classify as one of five categories.
 
 -------------------------------------------------------------------------------------------
